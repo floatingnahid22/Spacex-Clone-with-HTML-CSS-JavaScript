@@ -277,6 +277,11 @@ footer ul li a:hover {
   z-index: 3;
 }
 
+/* Stop body scroll */
+.stop-scrolling {
+  overflow: hidden;
+}
+
 /* Animations */
 
 @keyframes fadeInUp {
